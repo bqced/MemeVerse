@@ -1,4 +1,4 @@
-                                      Memeverse Tokenomics
+                                      Memeverse (MVR) Tokenomics
 Fostering Loyalty and Participation in a Meme-driven Cryptocurrency Ecosystem.
 
 Abstract:
