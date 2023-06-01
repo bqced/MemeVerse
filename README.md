@@ -5,13 +5,13 @@ Abstract:
 The Memeverse token is a cryptocurrency designed to cultivate loyalty and incentivize active 
 participation within the meme community. This tokenomics paper outlines the key principles and 
 mechanisms that underpin the Memeverse ecosystem. With features such as mining, voting power 
-for early adopters and loyal holders, anonymous transactions, and rewards based on holding 
+for early adopters and loyal holders, and rewards based on holding 
 duration, Memeverse aims to create an engaging and rewarding environment that benefits long-term 
 supporters and fosters a vibrant and loyal community.
 
 Introduction
 The Memeverse token presents a novel approach to cryptocurrency by combining the concepts of 
-loyalty, participation, and anonymity. By leveraging mining, voting power, anonymous transactions, 
+loyalty, participation, and anonymity. By leveraging mining, voting power, 
 and rewards for holding, Memeverse seeks to create a robust and inclusive ecosystem that 
 incentivizes long-term commitment and active engagement.
 
@@ -26,10 +26,6 @@ stakeholders. Voting rights enable holders to actively participate in governance
 platform upgrades, proposals, and community initiatives. This empowers the community to shape 
 the future direction of the ecosystem.
 
-Anonymous Transactions
-Memeverse recognizes the importance of privacy and provides a secure and private transaction 
-environment. By utilizing advanced cryptographic techniques, transactional details, including sender, 
-recipient, and transaction amounts, are protected, ensuring confidentiality and privacy for users.
 Rewards Based on Holding Duration
 Memeverse rewards holders based on the duration of their token ownership. Holders who keep their 
 tokens in their wallet addresses for extended periods receive a small additional amount of tokens as 
@@ -50,7 +46,7 @@ loyalty bonus, rewarding their commitment and incentivizing long-term holding.
 
 Conclusion:
 The Memeverse tokenomics incentivize loyalty, participation, and long-term commitment within the 
-meme community. Through features such as mining, voting power, anonymous transactions, rewards 
+meme community. Through features such as mining, voting power, rewards 
 based on holding duration, and redistribution mechanisms, Memeverse aims to create a vibrant 
 ecosystem that rewards dedicated holders, encourages active participation, and fosters a strong and 
 loyal community. By embracing these principles, Memeverse seeks to revolutionize the meme 
